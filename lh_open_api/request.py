@@ -1,5 +1,5 @@
 import requests
-import LH_OpenAPI.auth as auth
+import lh_open_api.auth as auth
 import logging
 
 logging.basicConfig(

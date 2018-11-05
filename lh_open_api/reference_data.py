@@ -1,4 +1,4 @@
-import LH_OpenAPI.request as request
+import lh_open_api.request as request
 
 base_url = 'https://api.lufthansa.com/v1/references/'
 
