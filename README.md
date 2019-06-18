@@ -2,8 +2,8 @@
 This module is wrapping the [LH Open API](https://developer.lufthansa.com/docs/read/Home) with Python.
 
 ## Example
-
-see the _get_data.py_ as an example.
+- create your own version of [config.ini.template](config.ini.template), save it as config.ini.
+- see the [get_data.py](get_data.py) as an example.
 
 ## provided functions
 <img src="LH_OpenAPI.png" width="200">

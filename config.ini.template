@@ -1,4 +1,4 @@
 [LH_OPENAPI]
-LH_SECRET = 123456abcdef
+LH_SECRET = 12345abcde
 LH_KEY = abcdef123456
 LH_TOKEN_URL = https://api.lufthansa.com/v1/oauth/token
