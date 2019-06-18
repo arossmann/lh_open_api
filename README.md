@@ -1,6 +1,10 @@
 # Lufthansa Open API
 This module is wrapping the [LH Open API](https://developer.lufthansa.com/docs/read/Home) with Python.
 
+## Example
+
+see the _get_data.py_ as an example.
+
 ## provided functions
 <img src="LH_OpenAPI.png" width="200">
 
